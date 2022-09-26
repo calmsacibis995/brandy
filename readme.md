@@ -2,7 +2,9 @@ Brandy
 ======
 
 Brandy is a tool to analyze the copy protection mechanisms from SCO Xenix and
-other contemporary SCO software.
+other contemporary SCO software. This a fork of the original tool, with its goal
+being to update it, to add support for modern systems, as the original developer
+has abandoned all efforts to maintain it.
 
 Brandy can:
 
